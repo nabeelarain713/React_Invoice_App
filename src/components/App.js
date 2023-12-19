@@ -100,7 +100,7 @@ function App() {
                 </div>
 
                 <div className="flex flex-col">
-                  <label htmlFor="website">Enter your website</label>
+                  <label htmlFor="website">Enter your Website</label>
                   <input
                     type="url"
                     name="website"
