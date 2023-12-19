@@ -17,7 +17,7 @@ export default function About() {
             </p>
             <p className="text-slate-700 text-center text-xl lg:w-2/3 lg:mx-auto mt-5">
               Please note that even though most of the functionality is done,
-              there are still some things to add such as saving invoices, and
+              there are still some things to add such as saving invoices and management, and
               improving the Login and Logout experience. Thank you as you bear
               with me.
             </p>
